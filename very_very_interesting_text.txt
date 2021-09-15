@@ -14,6 +14,7 @@ what BStudent is about to write. This is why
 he is creating a new branch and writing 
 his text here. 
 *PLACE HOLDER: ASTUDENT'S TEXT*
+This is a great improvement, isn't it?
 
 Before merging the two branches, AStudent
 writes a very nice conclusion for the document
