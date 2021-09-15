@@ -1,0 +1,21 @@
+This is an extremely interesting text.
+This is the result to he work of AStudent 
+and BStudent.
+
+Meanwhile BStudent calls up AStudent. BStudent 
+tells him he will improve this part of the text, 
+he will do this on a different branch so that he 
+will not interfere with AStudent’s work.
+*PLACE HOLDER: BSTUDENT HAS A CRUCIAL IMPROVEMENT*
+
+AStudent suddenly realizes that there is a 
+very nice text, that copes very nicely with 
+what BStudent is about to write. This is why 
+he is creating a new branch and writing 
+his text here. 
+*PLACE HOLDER: ASTUDENT'S TEXT*
+
+Before merging the two branches, AStudent
+writes a very nice conclusion for the document
+and commits it.
+*PLACE HOLDER: (ASTUDENT or BSTUDENT)'S TEXT*
